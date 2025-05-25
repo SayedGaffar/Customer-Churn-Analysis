@@ -12,3 +12,5 @@ Performed data cleaning and transformation in Power BI using Power Query.
 Built visual KPIs and dynamic charts (bar, donut, line) to represent churn distribution.
 
 Enabled cross-filtering and drill-down analysis by demographic and financial metrics.
+
+i have attached my Power BI dashbaord you can interact with it..
